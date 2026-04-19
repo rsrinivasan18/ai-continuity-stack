@@ -81,4 +81,4 @@ Reason: [Why]
 ---
 
 *Layer 2 of 3 — AI Continuity Stack*
-*github.com/yourusername/ai-continuity-stack*
+*github.com/rsrinivasan18/ai-continuity-stack*

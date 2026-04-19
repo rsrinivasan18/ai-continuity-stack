@@ -91,4 +91,4 @@ Decision style: [e.g. Fast decisions, iterate later]
 
 *Layer 3 of 3 — AI Continuity Stack*
 *This is the missing piece. Start here.*
-*github.com/yourusername/ai-continuity-stack*
+*github.com/rsrinivasan18/ai-continuity-stack*

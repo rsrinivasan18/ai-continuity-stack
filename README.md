@@ -45,5 +45,5 @@ Update the file together. Save it. Done.
 
 ---
 
-*From the blog post: "Why Your AI Feels Like a Stranger Every Morning"*
-*By Srini — AI Architect, Singapore | Building NirmaanAI*
+*From the blog post: "Why Your AI Feels Like a Stranger Every New Session"*
+*By Srini — AI Architect, Singapore*
